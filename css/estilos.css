@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+    border: 0px;
+}
+.header{
+    background-color: rgb(190, 226, 190);
+    color: green;
+    height: 40px;
+    padding-top: 9px;
+}
+.header2{
+    border-top: black solid 1px;
+    height: 40px;
+    padding-top: 9px;
+    font-size: 20px;
+}
+.verde{
+    background-color:green;
+}
+.rojo{
+    background-color: red;
+}
+.caja_select{
+    width: 300px;
+}
